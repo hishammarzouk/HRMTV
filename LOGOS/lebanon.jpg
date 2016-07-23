@@ -23,18 +23,18 @@
 		<item name="Alhayat_1" channel="rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream"></item>
 	    <item name="Alhayat_Cinema" channel="rtmp://162.212.176.107:1935/alhayat_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC.00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-alhayat_cinema.stream"></item>
 	    <item name="Moga_Comedy" channel="rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream"></item>
-		<item name="Rotana_Aflam" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rc?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Rotana_Aflam" channel="http://38.99.146.36:7777/RotanaAflam_HD.m3u8"></item>
 		<item name="Rotana_Clip" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="RotanaMasriya" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya"></item>
 		<item name="RotanaClassic" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaClassic"></item>
-    	<item name="RotanaCinema" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaCinema"></item>
+    	<item name="RotanaCinema" channel="http://38.99.146.36:7777/RotanaCinema_HD.m3u8"></item>
 		<item name="Alrai" channel="http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8"></item>
 		<item name="Fox_Movies" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-        <item name="Aljadeed" channel="rtsp://livestreaming1.itworkscdn.net:554/mtvlive/murrtelevision_160p"></item>
-        <item name="MTV" channel="rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p"></item>
+        <item name="Aljadeed" channel="http://38.99.146.36:7777/AlJadeed_HD.m3u8"></item>
+        <item name="MTV" channel="http://38.99.146.36:7777/MTVLebanon_HD.m3u8"></item>
         <item name="LBC" channel="rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2"></item>
         <item name="Future" channel="rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive"></item>
-        <item name="OTV" channel="rtsp://livestreaming.itworkscdn.net/otvmobile/otvlive_2"></item>
+        <item name="OTV" channel="http://38.99.146.36:7777/OTV_HD.m3u8"></item>
         <item name="Almanar" channel="rtsp://38.96.148.199:1935/liveorigin1/_definst_/livestream_720p"></item>
         <item name="NBN" channel="rtmp://nbn.mangomolo.com/nbn/_definst_/mpegts.stream"></item>
 		<item name="Alalamiyatv" channel="rtmp://live.ditve.tv:1935/demo5/demo5.stream_360p"></item>
@@ -42,7 +42,7 @@
 		<item name="Funoon" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8"></item>
 		<item name="Agyal" channel="http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8"></item>
 		<item name="AlJazeera_Children" channel="http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8"></item>
-		<item name="Toyor_Al_Janah" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Toyor_Al_Janah" channel="http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8"></item>
 		<item name="Al_Watan_TV" channel="http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8"></item>
 		<item name="Al_Watan_TV_Plus" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8"></item>
 		<item name="Al_Watan_Ghanawi" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8"></item>
