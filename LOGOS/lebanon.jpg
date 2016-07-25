@@ -43,7 +43,7 @@
 		<item name="Fox_Movies" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
         <item name="Aljadeed" channel="http://38.99.146.36:7777/AlJadeed_HD.m3u8"></item>
         <item name="MTV" channel="http://38.99.146.36:7777/MTVLebanon_HD.m3u8"></item>
-        <item name="LBC" channel="rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2"></item>
+        <item name="LBC" channel="http://38.99.146.36:7777/LBC_HD.m3u8"></item>
 		<item name="LDC" channel="http://38.99.146.36:7777/LDC_HD.m3u8"></item>
         <item name="Future" channel="http://38.99.146.36:7777/Future_HD.m3u8	"></item>
         <item name="OTV" channel="http://38.99.146.36:7777/OTV_HD.m3u8"></item>
