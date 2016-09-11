@@ -3,9 +3,9 @@
 		<item name="Message" channel="https://sites.google.com/site/arabicchannelslogos/thanks2.mp4"></item>
 		<item name="HRM-IPTV" channel="https://sites.google.com/site/hrmtvxbmcaddon/HRM-IPTV.mp4"></item>
 		<item name="M3U_Channels" channel="https://sites.google.com/site/arabtvip/lebanon.m3u"></item>
-		<item name="MBCMaser" channel="http://38.99.146.41:7777/MBCMaser_HD.m3u8"></item>
-		<item name="MBCDrama" channel="http://38.99.146.41:7777/ADDrama_HD.m3u8"></item>
-		<item name="MBC_1" channel="rtmp://63.237.48.8/live//MBC2"></item>
+		<item name="MBCMaser" channel="http://163.172.56.13:8000/live/kako/kako/1785.ts"></item>
+		<item name="MBCDrama" channel="http://163.172.56.13:8000/live/kako/kako/1786.ts"></item>
+		<item name="MBC_1" channel="http://163.172.56.13:8000/live/kako/kako/1778.ts"></item>
 		<item name="MBC2" channel="http://63.237.48.28/ios/MBC2/MBC2.m3u8"></item>
 		<item name="MBC4" channel="http://63.237.48.28/ios/MBC_4/MBC_4.m3u8"></item>
 		<item name="MBC_MAX" channel="http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8"></item>
@@ -19,7 +19,7 @@
 		<item name="CBCSofra" channel="http://38.99.146.41:7777/CBCSofra_HD.m3u8"></item>
 		<item name="Art_Aflam1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
     	<item name="Art_Aflam2" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-	    <item name="ART_Cinema" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+	    <item name="ART_Cinema" channel="http://163.172.56.13:8000/live/kako/kako/846.ts"></item>
 		<item name="Cima" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cima?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Alhayat_1" channel="rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream"></item>
 	    <item name="Alhayat_Cinema" channel="rtmp://162.212.176.107:1935/alhayat_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC.00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-alhayat_cinema.stream"></item>
