@@ -46,7 +46,7 @@
         <item name="LBC" channel="http://38.99.146.38:7777/LBC_HD.m3u8"></item>
 		<item name="LDC" channel="http://38.99.146.38:7777/LDC_HD.m3u8"></item>
         <item name="Future" channel="http://38.99.146.38:7777/Future_HD.m3u8	"></item>
-        <item name="OTV" channel="http://38.99.146.38:7777/OTV_HD.m3u8"></item>
+        <item name="OTV" channel="https://svs.itworkscdn.net/otvmobile/otvlive_2/playlist.m3u8"></item>
         <item name="Almanar" channel="rtsp://38.96.148.199:1935/liveorigin1/_definst_/livestream_720p"></item>
         <item name="NBN" channel="rtmp://nbn.mangomolo.com/nbn/_definst_/mpegts.stream"></item>
 		<item name="Alalamiyatv" channel="rtmp://live.ditve.tv:1935/demo5/demo5.stream_360p"></item>
