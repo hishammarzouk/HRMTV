@@ -10,7 +10,7 @@
 		<item name="MBC4" channel="http://63.237.48.9/ios/MBC_4/MBC_4.m3u8"></item>
 		<item name="MBC_MAX" channel="http://63.237.48.9/ios/MBC_MAX/MBC_MAX.m3u8"></item>
 		<item name="MBC_ACTION" channel="http://63.237.48.9/ios/MBC_ACTION/MBC_ACTION.m3u8"></item>
-		<item name="MBC_BOLLYWOOD" channel="http://63.237.48.9/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8"></item>
+		<item name="MBC_BOLLYWOOD" channel="http://149.100.11.178:9987/udp/239.100.2.112:3001"></item>
 		<item name="Zee_aflam" channel="http://38.99.146.41:7777/ZeeAflam_HD.m3u8"></item>
 		<item name="Zee_Alwan" channel="http://38.99.146.41:7777/ZeeAlwan_HD.m3u8"></item>
 		<item name="CBC1" channel="http://38.99.146.41:7777/CBC_HD.m3u8"></item>
@@ -41,7 +41,7 @@
 		<item name="NileSport" channel="http://38.99.146.41:7777/NileSport_HD.m3u8"></item>
 		<item name="Alrai" channel="http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8"></item>
 		<item name="Fox_Movies" channel="http://38.99.146.41:7777/FoxMovies_HD.m3u8"></item>
-        <item name="Aljadeed" channel="http://38.99.146.41:7777/AlJadeed_HD.m3u8"></item>
+        <item name="Aljadeed" channel="http://149.100.11.178:9987/udp/239.100.2.76:3001"></item>
         <item name="MTV" channel="http://149.100.11.178:9987/udp/239.100.2.70:3001"></item>
         <item name="LBC" channel="http://38.99.146.41:7777/LBC_HD.m3u8"></item>
 		<item name="LDC" channel="http://77.20.189.178:8554/LDC"></item>
