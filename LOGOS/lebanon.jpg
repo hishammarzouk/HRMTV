@@ -42,7 +42,7 @@
 		<item name="Alrai" channel="http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8"></item>
 		<item name="Fox_Movies" channel="http://38.99.146.41:7777/FoxMovies_HD.m3u8"></item>
         <item name="Aljadeed" channel="http://38.99.146.41:7777/AlJadeed_HD.m3u8"></item>
-        <item name="MTV" channel="http://77.20.189.178:8554/MTV Lebanon"></item>
+        <item name="MTV" channel="http://77.20.189.178:8554/mtv Lebanon"></item>
         <item name="LBC" channel="http://38.99.146.41:7777/LBC_HD.m3u8"></item>
 		<item name="LDC" channel="http://77.20.189.178:8554/LDC"></item>
         <item name="Future" channel="http://38.99.146.41:7777/Future_HD.m3u8"></item>
