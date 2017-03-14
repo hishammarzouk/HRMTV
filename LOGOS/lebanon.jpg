@@ -74,7 +74,7 @@
         <item name="Almayadeen" channel="rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p"></item>
         <item name="Aljazera" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_,264,528,828,.m3u8"></item>
         <item name="BBC" channel="http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8"></item>
-		<item name="TRTARAPCA" channel="http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8"></item>
+		<item name="TRTARAPCA" channel="http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8"></item> 
         <item name="Alan" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_,264,528,828,.m3u8"></item>
         <item name="Alarabiya" channel="http://livestream5.alarabiya.tv/i/live_1@141854/master.m3u8"></item>
         <item name="Euronews" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/euronews_ar/ls_satlink/b_,264,528,828,.m3u8"></item>
