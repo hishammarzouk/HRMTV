@@ -4,14 +4,14 @@
 		<item name="HRM-IPTV" channel="https://sites.google.com/site/hrmtvxbmcaddon/HRM-IPTV.mp4"></item>
 		<item name="M3U_Channels" channel="https://sites.google.com/site/arabtvip/lebanon.m3u"></item>
 		<item name="MBCMaser" channel="http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/729.ts"></item>
-		<item name="MBCDrama" channel="http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/727.ts"></item>
+		<item name="MBCDrama" channel="http://151.80.27.156:6227/live/Ms2/123/1866.ts"></item>
 		<item name="MBC_1" channel="http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/721.ts"></item>
 		<item name="MBC2" channel="http://63.237.48.9/ios/MBC2/MBC2.m3u8"></item>
-		<item name="MBC3" channel="http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/723.ts"></item>
-		<item name="MBC4" channel="http://63.237.48.9/ios/MBC_4/MBC_4.m3u8"></item>
-		<item name="MBC_MAX" channel="http://63.237.48.9/ios/MBC_MAX/MBC_MAX.m3u8"></item>
-		<item name="MBC_ACTION" channel="http://63.237.48.9/ios/MBC_ACTION/MBC_ACTION.m3u8"></item>
-		<item name="MBC_BOLLYWOOD" channel="http://149.100.11.178:9987/udp/239.100.2.112:3001"></item>
+		<item name="MBC3" channel="http://151.80.27.156:6227/live/Ms2/123/1870.ts"></item>
+		<item name="MBC4" channel="http://151.80.27.156:6227/live/Ms2/123/1869.ts"></item>
+		<item name="MBC_MAX" channel="http://151.80.27.156:6227/live/Ms2/123/1866.ts"></item>
+		<item name="MBC_ACTION" channel="http://151.80.27.156:6227/live/Ms2/123/1868.ts"></item>
+		<item name="MBC_BOLLYWOOD" channel="http://151.80.27.156:6227/live/Ms2/123/6027.ts"></item>
 		<item name="Zee_aflam" channel="http://38.99.146.41:7777/ZeeAflam_HD.m3u8"></item>
 		<item name="Zee_Alwan" channel="http://38.99.146.41:7777/ZeeAlwan_HD.m3u8"></item>
 		<item name="CBC1" channel="http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/69.ts"></item>
